@@ -8,7 +8,25 @@ Para mostrar lo aprendido de sintaxis Markdown, he hecho y probado los siguiente
 
 Per demostrar que coneixeu els fonaments bàsics de Markdown cal incloure:
 
-    Títols
-    Llistes
-    Enllaços (al menys l'enllaç a rawgit)
-    Cursiva i negreta
+Títols
+# Títol 1
+## Títol 2
+### Títol H3
+#### Títol H4
+##### Títol H5
+###### Títol H6
+
+Llistes ordenades
+1. Primer 
+2. Segon 
+..2.1 Sub llista 
+3. Tercer
+
+Llistes sense ordre
+
+Enllaços
+[enllaç a RawGit](https://rawgit.com/)
+
+Cursiva i negreta
+*Hola món* (cursiva)
+**Hola món** (negreta)
