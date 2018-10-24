@@ -4,29 +4,31 @@ Repositorio para las prácticas
 Después de registrarme y mirar un poco el aplicativo, he creado mi primer repositorio que usaré para las prácticas. Lo he creado con un README.md (este que estoy editando).
 En mi carpeta local he creado los tres ficheros de ejemplo y los he subido. He commitado estos cambios.
 
-Para mostrar lo aprendido de sintaxis Markdown, he hecho y probado los siguientes componentes:
+Con la herramienta en línea "laverna" he hecho y probado los siguientes componentes:
 
-Per demostrar que coneixeu els fonaments bàsics de Markdown cal incloure:
+Títulos
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
 
-Títols
-# Títol 1
-## Títol 2
-### Títol H3
-#### Títol H4
-##### Títol H5
-###### Títol H6
+Listas ordenadas
+1. Primero 
+2. Segundo
+..2.1 Sub lista 
+3. Tercero
 
-Llistes ordenades
-1. Primer 
-2. Segon 
-..2.1 Sub llista 
-3. Tercer
+Listas sin orden. He usado el operador *, pero también se puede usar + o -
+* Primer item de la lista
+* Segundo item de la lista
+..* Sub lista
+* Tercer item
 
-Llistes sense ordre
+Enlaces
+[enlace a RawGit](https://rawgit.com/)
 
-Enllaços
-[enllaç a RawGit](https://rawgit.com/)
-
-Cursiva i negreta
-*Hola món* (cursiva)
-**Hola món** (negreta)
+Cursiva y negrita
+*Hola mundo* (cursiva)
+**Hola mundo** (negrita)
